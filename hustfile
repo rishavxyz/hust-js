@@ -1,0 +1,7 @@
+# this is a comment
+
+hello ::
+  echo Hello Husty!
+
+# commands are written in new line
+# at least one space needed for commands

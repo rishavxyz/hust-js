@@ -1,0 +1,22 @@
+{
+  "name": "hust",
+  "version": "0.0.1",
+  "description": "A handy way to run project specific commands",
+  "main": "index.js",
+  "scripts": {
+    "hust": "node .",
+    "test": "node . hello",
+    "list": "node . --list"
+  },
+  "keywords": [
+    "command-line",
+    "tool",
+    "hust",
+    "project"
+  ],
+  "author": "rishavxyz",
+  "license": "ISC",
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
