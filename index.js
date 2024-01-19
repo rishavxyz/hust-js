@@ -120,7 +120,7 @@ class Hust {
 
     let i = 0;
 
-    while (i <= commands.length - 1) {
+    while (i < commands.length) {
       const command = commands[i];
 
       warn(`-> ${command}`)
